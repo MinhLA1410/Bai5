@@ -1,6 +1,18 @@
 package b5;
 
-public abstract class Work implements IWork {
+public class Work implements IWork {
+	@Override
+	public void input() {
+		System.out.println("okinput");
+		
+	}
+
+	@Override
+	public void display() {
+		System.out.println("okdisplay");
+		
+	}
+
 	protected String code;
 	protected String name;
 	protected int duration;

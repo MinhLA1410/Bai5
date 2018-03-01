@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ProjectManager {
 //	private static Work pj[];
-	public static ArrayList<Work> wk = new ArrayList<>();
+	public static ArrayList<Project> wk = new ArrayList<>();
 //	public static void Input1(int c) {
 //		Scanner sc = new Scanner(System.in);
 //		pj = new Project[c];
@@ -24,16 +24,19 @@ public class ProjectManager {
 //	}
 	
 	public static void Input2() {
-		wk.add(new Work("1","student", 10, "sinh vien"));
+		Scanner sc = new Scanner(System.in);
+		wk.add((Project) new Work("1","student", 18, "sinh vien"));
+		wk.add((Project) new Work("2","employee", 25, "nhân viên"));
+		wk.add((Project) new Work("3","manger", 30, "sếp"));
 		
+		for(int i=0; i<wk.size(); i++) {
+			int m = sc.nextInt();
+			wk.ad
 	}
 	
 	public static void Sort() {
-		for(int i=0; i<pj.length; i++) {
-			if(pj[i].getDuration() > pj[i+1].getDuration() ) {
-				int temp = pj[i].getDuration();
+		
 			}
-		}
 	}
 	
 	
