@@ -7,15 +7,17 @@ public class Main {
 	
 	public static Scanner sc = new Scanner(System.in);
 	
-	public static ArrayList<CongNhan> cnlist = new ArrayList<CongNhan>();
-	public static ArrayList<CanBoQuanLy> cblist = new ArrayList<CanBoQuanLy>();
+	public static ArrayList<CongNhan> cnlist;
+	public static ArrayList<CanBoQuanLy> cblist;
 	
 	public static void inputInformCongNhan(int n){
+		
 		for(int i=0; i<n; i++){
 			cnlist.get(i).nhap();
 		}
 	}
 	public static void inputInformQuanLy(int m){
+		
 		for(int i=0; i<m; i++){
 			cblist.get(i).nhap();
 		}
@@ -35,6 +37,9 @@ public class Main {
 	public static void main(String[] args) {
 		int n = sc.nextInt();
 		int m = sc.nextInt();
+		
+		cnlist = new ArrayList<>(n);
+		cblist = new ArrayList<>(m);
 		
 		Main.inputInformCongNhan(n);
 		Main.inputInformQuanLy(m);
