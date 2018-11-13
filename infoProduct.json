@@ -4,80 +4,80 @@
     "name" : "Đắc Nhân Tâm",
     "isbn" : "111111111",
     "author" : "Dale Carnegie",
-    "publishing company" : "Kim Đồng",
-    "publication date" : "1/1/1999",
+    "publishingcompany" : "Kim Đồng",
+    "publicationdate" : "1/1/1999",
     "price" : "200000"
   },
   {
     "name" : "Dám Nghĩ Lớn",
     "isbn" : "111111112",
     "author" : "David J.Schwartz. Ph.D",
-    "publishing company" : "TP.Hồ Chí Minh",
-    "publication date" : "1/3/2001",
+    "publishingcompany" : "TP.Hồ Chí Minh",
+    "publicationdate" : "1/3/2001",
     "price" : "200000"
   },
     {
     "name" : "Kỹ Năng Làm Việc Đồng Đội",
     "isbn" : "111111113",
     "author" : "Trịnh Kim Vân",
-    "publishing company" : "NXB Thời Đại",
-    "publication date" : "5/1/2009",
+    "publishingcompany" : "NXB Thời Đại",
+    "publicationdate" : "5/1/2009",
     "price" : "200000"
   },
     {
     "name" : "Kỹ Năng Mềm Của Sinh Viên",
     "isbn" : "111111114",
     "author" : "Phạm Xuân Hưng",
-    "publishing company" : "NXB Thời Đại",
-    "publication date" : "1/1/2010",
+    "publishingcompany" : "NXB Thời Đại",
+    "publicationdate" : "1/1/2010",
     "price" : "200000"
   },
     {
     "name" : "Quản Trị Rủi Ro",
     "isbn" : "111111115",
     "author" : "Nguyễn Văn Tiền & Nguyễn Mạnh Hùng",
-    "publishing company" : "Lao Động",
-    "publication date" : "1/6/2001",
+    "publishingcompany" : "Lao Động",
+    "publicationdate" : "1/6/2001",
     "price" : "200000"
   },
     {
     "name" : "Kỹ Năng Tự Học Suốt Đời",
     "isbn" : "111111116",
     "author" : "Nguyễn Văn Thịnh",
-    "publishing company" : "Thời Đại",
-    "publication date" : "5/6/2002",
+    "publishingcompany" : "Thời Đại",
+    "publicationdate" : "5/6/2002",
     "price" : "200000"
   },
     {
     "name" : "Tư Duy Nhanh Và Chậm",
     "isbn" : "111111117",
     "author" : "Philip G.Zimbardo",
-    "publishing company" : "Thời Đại",
-    "publication date" : "2/5/2004",
+    "publishingcompany" : "Thời Đại",
+    "publicationdate" : "2/5/2004",
     "price" : "200000"
   },
     {
     "name" : "Kỹ Năng Tìm Việc Làm",
     "isbn" : "111111118",
     "author" : "Nguyễn Văn Vỵ",
-    "publishing company" : "Thời Đại",
-    "publication date" : "5/6/1999",
+    "publishingcompany" : "Thời Đại",
+    "publicationdate" : "5/6/1999",
     "price" : "200000"
   },
     {
     "name" : "Tâm Lý Học Và Đời Sống",
     "isbn" : "111111119",
     "author" : "Richard.Gerrig",
-    "publishing company" : "Lao Động",
-    "publication date" : "2/7/1998",
+    "publishingcompany" : "Lao Động",
+    "publicationdate" : "2/7/1998",
     "price" : "200000"
   },
     {
     "name" : "Kỹ Nghệ Phần Mềm",
     "isbn" : "111111110",
     "author" : "Nguyễn Việt Hà",
-    "publishing company" : "Giáo Dục Việt Nam",
-    "publication date" : "1/8/2000",
+    "publishingcompany" : "Giáo Dục Việt Nam",
+    "publicationdate" : "1/8/2000",
     "price" : "200000"
   }
 ]
